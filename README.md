@@ -1,4 +1,5 @@
 # CloverOS Website Redesign
+http://jordanblythe.com/cloveros/
 
 ### Overview
 The current website needed redesigning, so I took it as an opportunity to learn more about design and composition. The website is mostly plain html/css with no external js libraries, just a few lines of purejs.
@@ -13,5 +14,8 @@ The current website needed redesigning, so I took it as an opportunity to learn 
 
 ### Todo
 * Some content on the site is filler, needs to be completed.
+* Section 2 structure is not optimal, works fine for now but might be worth fixing at some point.
+
+
 
 
