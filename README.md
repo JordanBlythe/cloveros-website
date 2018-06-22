@@ -1,4 +1,4 @@
-# CloverOS Website Redesign Proposal
+# CloverOS Website Redesign
 
 ### Overview
 The current website needed redesigning, so I took it as an opportunity to learn more about design and composition. The website is mostly plain html/css with no external js libraries, just a few lines of purejs.
